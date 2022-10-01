@@ -2,8 +2,8 @@
 
 ### Medjahed Abderraouf Amine
 
-👨‍🎓 Etudiant en M2 IRS à l'UVSQ  
-👷‍♂️ Alternant Ingénieur DevOps à CapGemini
+👨‍🎓 Etudiant en **M2 IRS** à l'**UVSQ**  
+👷‍♂️ Alternant **Ingénieur DevOps** à **CapGemini**
 
 - 🔭 I’m currently working on : **Trouver un moyen de faire beaucoup d'argent en peu de temps.**
 - 🌱 I’m currently learning : **Kubernetes - CKA.**
